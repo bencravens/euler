@@ -1,2 +1,2 @@
 # cryptopals
-Solutions to cryptopals questions in Rust.
+My cryptopals solutions, in rust.
