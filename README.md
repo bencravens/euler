@@ -1,2 +1,2 @@
-# cryptopals
-My cryptopals solutions, in rust.
+# euler
+My project euler solutions, in rust.
