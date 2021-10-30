@@ -1,2 +1,2 @@
 # euler
-My project euler solutions, in rust.
+My project euler solutions, in Rust.
