@@ -3,9 +3,9 @@ fn is_palindrome(num: i32) -> bool {
     let str_num_rev: String = str_num.chars().rev().collect();
 
     if str_num == str_num_rev {
-            return true;
-        } else {
-            return false;
+        return true;
+    } else {
+        return false;
     }   
 }
 
