@@ -29,4 +29,3 @@ fn main() {
 
     println!("biggest prod: {}", max);
 }
-
